@@ -6,7 +6,7 @@ Clarisse Uwizeyimana
 
 ## Description of project:
 
-This project is all about allowing users to enter any string and then it encrypt it according to the key values of the choices, the key values must be numbers. and after encryption it decript it into the string it has been entered by the user.
+This app allows you to recruit a well-balanced team of superheroes where you create a hero and you put him/her in a squard once. You can also delete the squad or hero when you no longer need him /her
 ## project setup instructions:
 
 You have to open yur terminal(Ctrl+Alt+T) You have to clone this project by using this link https://github.com/Clarisse-3924/Caesar.git
