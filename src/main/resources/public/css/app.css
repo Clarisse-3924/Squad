@@ -73,7 +73,10 @@ margin:auto;
 margin-right:30px;
 
 }
-.background{background-color:yellow;}
+.background{background-color:yellow;
+border-radius:5px 5px 5px black solid;
+margin-left:500px;
+margin-right:500px;}
 .form input{
 width:400px;
 margin-bottom:30px;
