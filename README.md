@@ -17,9 +17,9 @@ https://github.com/Clarisse-3924/Squad.git
 That is my contact in case you want to contact. Email: cuwizeyimana820@daviscollege.com
 
 ## Home image
-![Home](Images/Home1.png)
+![Home](Images/Home11.png)
 ## Home page view after signing
-![view](Images/home2.png)
+![view](Images/home10.png)
 ## create hero
 ![hero](Images/home3.png)
 ## Viewing hero
