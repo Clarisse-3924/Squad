@@ -1,4 +1,4 @@
-# Caesar Cipher
+# Hero Squad
 
 ## Author name 
 
