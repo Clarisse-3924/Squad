@@ -78,6 +78,10 @@ border-radius:5px;
 margin-left:300px;
 margin-right:300px;
 }
+#size{background-color:lightgrey;
+color:black;
+border-radius:5px;
+ }
 #color{color:white;}
 .form input{
 width:400px;
