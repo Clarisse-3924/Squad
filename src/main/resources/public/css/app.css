@@ -1,0 +1,92 @@
+
+body{
+
+    background: #0e4269 ;
+    background-position:center;
+    background-size:contain;
+    color:black;
+    font-family:monospace;
+
+}
+
+.nav{
+    background-color:#171614;
+    color:white;
+}
+
+hr{
+    background-color:black;
+}
+
+a,a:hover{
+color:#171614
+
+}
+.active{
+
+color:white;
+
+width:fit-content;
+}
+.active a,a:hover{
+
+color:white;
+width:fit-content;
+
+}
+
+.active a:hover{
+color:black;
+}
+.title{
+text-align:center;
+letter-spacing:10px;
+ margin-top:200px;
+ width:100%;
+ font-size:40px;
+ margin-bottom:50px;
+ color:#bf675b;
+
+}
+
+.row.username{
+    width:100%;
+}
+.sign-in{
+text-align:center;
+}
+label{
+font-size:x-large;
+}
+
+.sign-in input{
+width:250px;
+height:30px;
+}
+.row.indexButton{
+
+    width:100%;
+
+}
+.create{
+margin:auto;
+
+}
+.create .btn{
+margin-right:30px;
+
+}
+.form input{
+width:400px;
+margin-bottom:30px;
+}
+.form-class{
+width:fit-content;
+margin:auto;
+border:2px solid #bf675b;
+padding-left:100px;
+padding-right:100px;
+padding-bottom:20px;
+padding-top:20px;
+margin-top:50px;
+}

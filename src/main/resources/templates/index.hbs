@@ -1,0 +1,47 @@
+{{#partial "content"}}
+
+
+    {{#if username}}
+
+        <div class="row username">
+            <h1 class="title">Welcome {{username}} to Hero Squad</h1>
+        </div>
+        <div class="row indexButton">
+            <div class="create">
+                <a href="/create/hero"><button class="btn btn-success btn-lg">Create Hero</button></a>
+                <a href="/create/squad"><button class="btn btn-success btn-lg">Create Squad</button></a>
+
+            </div>
+
+
+        </div>
+
+
+    {{else}}
+        <form action="/welcome" method="post">
+            <h1 class="title">Welcome to Hero Squad </h1>
+
+            <div class="sign-in">
+                <h3 class="text">Sign in for more!!!</h3><br><br>
+                <label for="username">Name</label>
+                <input type="text" name="username" id="username">
+                <button type="submit" class="btn btn-primary btn-lg">Sign In</button>
+            </div>
+
+
+        </form>
+
+
+
+    {{/if}}
+
+
+
+
+
+
+{{/partial}}
+
+
+
+{{> layout.hbs}}
