@@ -14,7 +14,6 @@ public class App {
         staticFileLocation("/public");
         Hero hero1 =new Hero("Odile",30,"Eating ","sleeping");
         Hero hero2 =new Hero("Fabienne",30,"Dancing ","reading ");
-        //start session
         get("/", (request, response) -> {
             Map<String, Object> model = new HashMap<String, Object>();
             model.put("username", request.session().attribute("username"));
