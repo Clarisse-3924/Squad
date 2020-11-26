@@ -12,10 +12,6 @@ This app allows you to recruit a well-balanced team of superheroes where you cre
 You have to open yur terminal(Ctrl+Alt+T) You have to clone this project by using this link 
 https://github.com/Clarisse-3924/Squad.git
 
-
-## Copyright and license information
-Information MIT license and Copyright@2020
-
 ## Contact
 
 That is my contact in case you want to contact. Email: cuwizeyimana820@daviscollege.com
@@ -28,3 +24,6 @@ That is my contact in case you want to contact. Email: cuwizeyimana820@daviscoll
 ![encripttest](image/encripttest.png)
 ## Out put image
 ![output](image/output.png)
+
+## Copyright and license information
+Information MIT license and Copyright@2020
