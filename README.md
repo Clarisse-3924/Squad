@@ -16,14 +16,18 @@ https://github.com/Clarisse-3924/Squad.git
 
 That is my contact in case you want to contact. Email: cuwizeyimana820@daviscollege.com
 
-## Encript image
-![encript](image/encript.png)
-## Decript image
-![decript](image/decript.png)
-## Encripttest image
-![encripttest](image/encripttest.png)
-## Out put image
-![output](image/output.png)
+## Home image
+![Home](Images/Home1.png)
+## Home page view after signing
+![view](Images/home2.png)
+## create hero
+![hero](Images/home3.png)
+## Viewing hero
+![hero](Images/Home5.png)
+## Creating squad
+![squad](Images/home8.png)
+## Viewing squad
+![squadview](Images/home9.png)
 
 ## Copyright and license information
 Information MIT license and Copyright@2020
